@@ -22,9 +22,12 @@ Este projeto foi desenvolvido como parte do meu portfólio de Engenharia de Soft
 1. Clone o repositório:
    ```
      git clone [https://github.com/SEU-USUARIO/gym-tracker.git](https://github.com/SEU-USUARIO/gym-tracker.git)
-3. Execute via Maven
+2. Execute via Maven
    ```
      mvn spring-boot:run
+3. Teste os Endpoints facilmente em:
+   ```
+      http://localhost:8080/swagger-ui/index.html#/
 
 ## Endpoints da API
 | Método | Rota | Descrição |
